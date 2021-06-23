@@ -9,7 +9,7 @@ function Content() {
             <div className="menu-card">
                 <img src={ImageOne} alt="egg" className="h-full rounded mb-20 shadow" />
                 <div className="center-content">
-                    <h2 className="text-2xl mb-2">Egg Muffins</h2>
+                    <h2 className="text-2xl mb-2">Biji Andre</h2>
                     <p className="mb-2">Crispy, delicious, and nutrious</p>
                     <span>$16</span>
                 </div>
@@ -17,7 +17,7 @@ function Content() {
             <div className="menu-card">
                 <img src={ImageTwo} alt="egg" className="h-full rounded mb-20 shadow" />
                 <div className="center-content">
-                    <h2 className="text-2xl mb-2">Egg Salad</h2>
+                    <h2 className="text-2xl mb-2">Salad Andre</h2>
                     <p className="mb-2">Crispy, delicious, and nutrious</p>
                     <span>$18</span>
                 </div>
