@@ -27,7 +27,7 @@ function App() {
       window.removeEventListener('resize', hideMenu);
     }
 
-  }, [])
+  }, [isOpen])
 
 
   return (
