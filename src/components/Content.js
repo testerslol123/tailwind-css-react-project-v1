@@ -1,5 +1,4 @@
 import React from 'react'
-import {Link} from 'react-router-dom';
 
 import ImageOne from '../images/egg.jpg';
 import ImageTwo from '../images/egg2.jpg';
